@@ -1,5 +1,15 @@
 package   me.iHDeveloper;
 
 public class MiniGamesAPI{
-  // TODO implements enable/disable methods
+  
+  @Override
+  public void onEnable(){
+    // TODO onenable
+  }
+  
+  @Override
+  public void onDisable(){
+    // TODO ondisable
+  }
+  
 }
