@@ -1,5 +1,5 @@
 # Task List
-- [ ] Game*
+- [ ] Game* 
 - [ ] Arena/Maps*
 - [ ] Rewards*
 - [ ] Stats*
