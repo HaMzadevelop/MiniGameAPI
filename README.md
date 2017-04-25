@@ -1,6 +1,6 @@
 # Task List
-- [ ] Game*
-- [ ] Arena/Maps*
+- [x] Game*
+- [x] Arena/Maps*
 - [ ] Rewards*
 - [ ] Stats*
 - [ ] Shop*
@@ -8,9 +8,8 @@
 - [ ] Updater*
 - [ ] Hologram*
 - [ ] AutoJoin*
-- [ ] PC System
 - [ ] Party System
-- [ ] Debug System*
+- [x] Debug System*
 
 > #Config file
 >> ```
